@@ -1,0 +1,7 @@
+@media (min-width: 768px) {
+    /* Your media query styles here */
+  }
+#navbar {
+    position: fixed;
+    top: 0;
+  }
